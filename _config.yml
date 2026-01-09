@@ -30,7 +30,7 @@ author:
   location         : #"Berkeley, CA"
   employer         : "University of California, Berkeley"
   uri              : # URL
-  email            : "manocha@berkeley.edy" 
+  email            : "manocha@berkeley.edu" 
 
   # Academic websites
   academia         : # URL
@@ -127,7 +127,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
