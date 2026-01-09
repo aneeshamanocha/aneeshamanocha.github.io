@@ -16,7 +16,7 @@ Education
 * MPhil in Public Policy with Distinction, Cambridge University, 2024
 * B.S.E. in Electrical & Computer Engineering, Princeton University, 2023
 
-Work experience
+Work Experience
 ======
 * Gas, Coal, Power Team
   * International Energy Agency
